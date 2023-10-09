@@ -1,2 +1,4 @@
 [submodule "server"]
 	url = https://github.com/saurav00679/keeper_server.git
+[submodule "keeper_server"]
+	url = https://github.com/saurav00679/keeper_server.git
