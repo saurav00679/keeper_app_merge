@@ -1,4 +1,9 @@
 [submodule "keeper_project"]
+    path = keeper_project
 	url = https://github.com/saurav00679/Keeper-App.git
 [submodule "keeper_server"]
+    path = server
 	url = https://github.com/saurav00679/keeper_server.git
+[submodule "keeper_app_merge"]
+   path = keeper_app_merge
+   url = https://github.com/saurav00679/keeper_app_merge.git
