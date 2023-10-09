@@ -1,3 +1,2 @@
-[submodule "keeper_project"]
-	path = keeper_project
-	url = https://github.com/saurav00679/Keeper-App.git
+[submodule "server"]
+	url = https://github.com/saurav00679/keeper_server.git
